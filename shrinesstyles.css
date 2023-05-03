@@ -1,0 +1,43 @@
+body {
+  background:#63d0e7;
+     background-image:url();
+
+}
+.shrineboxes{
+  border-radius: 25px;
+  border: 1px solid #60dbad;
+  width:100px;
+  height:100px;
+  text-align:center;
+  padding:25px;
+  margin:25px;
+  display:inline-block;
+  background:#60dbad;
+}
+.shrineboxes:hover{
+  background:#63e7cb;
+}
+.shrineboxes:active{
+  background:	#66eb9d;
+}
+#headingbox{
+  background:#63acee;
+  border:1px solid #63acee;
+  border-radius:5px;
+  text-align:center;
+}
+#dafooter{
+  background:#63acee;
+  position:absolute;
+  bottom:0px;
+  left:0px;
+  height:50px;
+  width:100%;
+  padding:5px;
+}
+.innerimages{
+width:100px;
+}
+h1{
+  font-size:24px;
+}
